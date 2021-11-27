@@ -48,3 +48,6 @@
 ### Choosing Figure Colors
 - Read <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rth2.12308">Choosing color palettes for scientific figures</a>
     - This is a journal paper published in RPTH journal, by Wiley. Gives a good introduction to choosing colors using color wheel, a skill that can be used right away.
+### Make MatPlotLib Figures Look Better
+- Read <a href="https://stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this">How to make matplotlib graphs look professionally done like this?</a>
+    - The long answer by DrV captures it all.
