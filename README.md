@@ -1,7 +1,7 @@
 # AI/DL/ML/NLP/CV Conference Cheatsheet
 
 
-## The Go-To Choice 2021
+## The Go-To Choice 2021 for Finding Conferences
 - See <a href="https://research.com/">Research.com</a>
     - Shows conference ranking, deadline, location, date, and other important conference-related info in a very organized manner.
 
@@ -51,3 +51,10 @@
 ### Make MatPlotLib Figures Look Better
 - Read <a href="https://stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this">How to make matplotlib graphs look professionally done like this?</a>
     - The long answer by DrV captures it all.
+    - The quick trick would be to use the <a href="https://matplotlib.org/stable/tutorials/introductory/customizing.html#customizing-with-style-sheets">MatPlotLib style sheets</a>
+    - Or simply use Seaborn instead of MatPlotLib
+
+
+## Package an Open-Source Project for Publication
+- Read <a href="https://www.freecodecamp.org/news/build-your-first-python-package/">How to Build Your Very First Python Package - freeCodeCamp</a>
+    - It's always a great idea to use packaging, for a greater impact of the developed research program.
