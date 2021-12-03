@@ -1,4 +1,4 @@
-# AI/DL/ML/NLP/CV Conference Cheatsheet
+# AI/DL/ML/NLP/CV Conference Cheatsheet + Publishing Tips
 
 
 ## The Go-To Choice 2021 for Finding Conferences
