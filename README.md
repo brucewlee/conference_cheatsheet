@@ -58,3 +58,8 @@
 ## Package an Open-Source Project for Publication
 - Read <a href="https://www.freecodecamp.org/news/build-your-first-python-package/">How to Build Your Very First Python Package - freeCodeCamp</a>
     - It's always a great idea to use packaging, for a greater impact of the developed research program.
+
+
+## Useful Techniques
+### NLP
+- Data augmentation, to increase number of datapoints by automatically inserting similar but new items. NLPaug <a href="https://github.com/makcedward/nlpaug"> seems useful for tackling this job.
