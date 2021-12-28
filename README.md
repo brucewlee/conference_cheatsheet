@@ -63,11 +63,11 @@
 ## Useful Techniques
 ### NLP
 - Data augmentation, to increase number of datapoints by automatically inserting similar but new items. 
-    - NLPaug <a href="https://github.com/makcedward/nlpaug"></a> seems useful for tackling this job.
-    - A Survey of Data Augmentation Approaches for NLP <a href="https://aclanthology.org/2021.findings-acl.84"> </a> does a great introduction.
+    - <a href="https://github.com/makcedward/nlpaug">NLPaug</a> seems useful for tackling this job.
+    - <a href="https://aclanthology.org/2021.findings-acl.84">A Survey of Data Augmentation Approaches for NLP</a> does a great introduction to the newcomers.
     
 
 ## Writing a Solid Paper
 ### General
-- In fact, reviewers, authors, and readers must read this splendid reviewer guidelines. <a href="https://2021.naacl.org/reviewer/advice/"></a>
+- In fact, reviewers, authors, and readers must read this <a href="https://2021.naacl.org/reviewer/advice/">splendid reviewer guideline</a>.
 
