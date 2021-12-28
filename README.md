@@ -68,5 +68,6 @@
     
 
 ## Writing a Solid Paper
-    
-    
+### General
+- In fact, reviewers, authors, and readers must read this splendid reviewer guidelines. <a href="https://2021.naacl.org/reviewer/advice/">
+
