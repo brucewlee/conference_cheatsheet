@@ -62,4 +62,7 @@
 
 ## Useful Techniques
 ### NLP
-- Data augmentation, to increase number of datapoints by automatically inserting similar but new items. NLPaug <a href="https://github.com/makcedward/nlpaug"> seems useful for tackling this job.
+- Data augmentation, to increase number of datapoints by automatically inserting similar but new items. 
+    - NLPaug <a href="https://github.com/makcedward/nlpaug"> seems useful for tackling this job.
+    - A Survey of Data Augmentation Approaches for NLP <a href="https://aclanthology.org/2021.findings-acl.84.pdf"> does a great introduction.
+    
